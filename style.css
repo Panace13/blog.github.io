@@ -94,8 +94,8 @@ img {
 }
 
 @media (max-width: 500px) {
-  .menu{
-   justify-content: center;
+  .menu {
+    justify-content: center;
   }
 }
 
